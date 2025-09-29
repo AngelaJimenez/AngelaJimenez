@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angela Jimenez</h1>
-<h3 align="center">A passionate Software Engineer. I'm doing my master's in Computer Graphics @Purdue University.</h3>
+<h3 align="center">A passionate Virtual Reality Engineer and researcher. I'm doing my PhD in Technology @Purdue University.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
